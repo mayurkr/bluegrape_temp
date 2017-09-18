@@ -1,5 +1,5 @@
 body {
-    background-image:    url(bg.jpg);
+    background-image:    url("https://www.bluegrape.in/bg.jpg");
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center;              /* optional, center the image */
